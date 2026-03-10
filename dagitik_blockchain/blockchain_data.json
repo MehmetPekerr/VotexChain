@@ -1,0 +1,4270 @@
+[
+  {
+    "index": 0,
+    "timestamp": "2025-05-11T17:40:33.570775",
+    "transactions": [],
+    "previous_hash": "0",
+    "hash": "8ba851d78c5351ffb31f84c600a3dc5e655bbdd7a02d6ae9df5a7346a34af53a"
+  },
+  {
+    "index": 1,
+    "timestamp": "2025-05-11T17:50:49.284581",
+    "transactions": [
+      {
+        "sandik_no": "667",
+        "secmen_sayisi": "15",
+        "katilan_secmen": "2",
+        "katilim_orani": "13.33",
+        "oy_kullananlar": [
+          "33",
+          "34"
+        ],
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-11T17:50:49.280879"
+      }
+    ],
+    "previous_hash": "8ba851d78c5351ffb31f84c600a3dc5e655bbdd7a02d6ae9df5a7346a34af53a",
+    "hash": "faa260d06134d3ce70b464c63f69fe74d8b1e98b2b4bbc28a0cd3ce677efe1c0"
+  },
+  {
+    "index": 2,
+    "timestamp": "2025-05-11T18:04:37.120265",
+    "transactions": [
+      {
+        "sandik_no": "134",
+        "secmen_sayisi": "100",
+        "katilan_secmen": "10",
+        "katilim_orani": "10.00",
+        "oy_kullananlar": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-11T18:04:37.110406"
+      }
+    ],
+    "previous_hash": "faa260d06134d3ce70b464c63f69fe74d8b1e98b2b4bbc28a0cd3ce677efe1c0",
+    "hash": "0743ff0871fe4f9512c2e7ed93f0763494435917639c6163dbd8b20a97f94531"
+  },
+  {
+    "index": 3,
+    "timestamp": "2025-05-13T13:15:22.344964",
+    "transactions": [
+      {
+        "sandik_no": "543",
+        "secmen_sayisi": "55",
+        "katilan_secmen": "3",
+        "katilim_orani": "5.45",
+        "oy_kullananlar": [
+          "56",
+          "57",
+          "58"
+        ],
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-13T13:15:22.338583"
+      }
+    ],
+    "previous_hash": "0743ff0871fe4f9512c2e7ed93f0763494435917639c6163dbd8b20a97f94531",
+    "hash": "9f7940d6a045b180d4ba8d0bb3d8b7b5e8a56f83dfd04a6cd4f09a1c6ec2722d"
+  },
+  {
+    "index": 4,
+    "timestamp": "2025-05-13T19:41:09.985264",
+    "transactions": [
+      {
+        "sandik_no": "6",
+        "secmen_sayisi": "20",
+        "katilan_secmen": "3",
+        "katilim_orani": "15.00",
+        "oy_kullananlar": [
+          "77",
+          "78",
+          "79"
+        ],
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-13T19:41:09.985264"
+      }
+    ],
+    "previous_hash": "9f7940d6a045b180d4ba8d0bb3d8b7b5e8a56f83dfd04a6cd4f09a1c6ec2722d",
+    "hash": "dee1d78866956db258177b1e539f4cf39eafffc83bf28f668b2671cb07795fdc"
+  },
+  {
+    "index": 5,
+    "timestamp": "2025-05-13T22:59:42.254236",
+    "transactions": [
+      {
+        "sandik_no": "34",
+        "secmen_sayisi": "100",
+        "katilan_secmen": "3",
+        "katilim_orani": "3.00",
+        "oy_kullananlar": [
+          "23",
+          "45",
+          "76"
+        ],
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-13T22:59:42.252230"
+      }
+    ],
+    "previous_hash": "dee1d78866956db258177b1e539f4cf39eafffc83bf28f668b2671cb07795fdc",
+    "hash": "2a2c4fc406e92c76a5176bc1f24857323b754a07a8d28de9b9d0a06847f7ee4c"
+  },
+  {
+    "index": 6,
+    "timestamp": "2025-05-14T02:51:39.630167",
+    "transactions": [
+      {
+        "sandik_no": "89",
+        "secmen_sayisi": 5,
+        "katilan_secmen": 1,
+        "katilim_orani": 20.0,
+        "oy_kullananlar": [
+          "89"
+        ],
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-14T02:51:39.630167"
+      }
+    ],
+    "previous_hash": "2a2c4fc406e92c76a5176bc1f24857323b754a07a8d28de9b9d0a06847f7ee4c",
+    "hash": "63fd5870e181c3122208597a7cee330fe7752b51c67b4263f980ab222a182a57"
+  },
+  {
+    "index": 7,
+    "timestamp": "2025-05-25T12:04:18.928279",
+    "transactions": [
+      {
+        "sandik_no": "3",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "katilim_orani": 100.0,
+        "oy_kullananlar": [
+          "3",
+          "46"
+        ],
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-25T12:04:18.928279"
+      }
+    ],
+    "previous_hash": "63fd5870e181c3122208597a7cee330fe7752b51c67b4263f980ab222a182a57",
+    "hash": "69bccf5257d7b1a11afc4260b16b68cd85bbdef65ad205fe9130004bc8b6add8"
+  },
+  {
+    "index": 8,
+    "timestamp": "2025-05-25T12:06:57.722307",
+    "transactions": [
+      {
+        "sandik_no": "3",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "katilim_orani": 100.0,
+        "oy_kullananlar": [
+          "88",
+          "89"
+        ],
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25T12:06:57.722307"
+      }
+    ],
+    "previous_hash": "69bccf5257d7b1a11afc4260b16b68cd85bbdef65ad205fe9130004bc8b6add8",
+    "hash": "56f76e776c1241f53bdaaf16062d063d99f22cf3ee4b0f1242716d22b03a1cb7"
+  },
+  {
+    "index": 9,
+    "timestamp": "2025-05-25T12:20:33.401205",
+    "transactions": [
+      {
+        "sandik_no": "4",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "katilim_orani": 100.0,
+        "oy_kullananlar": [
+          "456",
+          "466"
+        ],
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25T12:20:33.401205"
+      }
+    ],
+    "previous_hash": "56f76e776c1241f53bdaaf16062d063d99f22cf3ee4b0f1242716d22b03a1cb7",
+    "hash": "27ac17f31133122dec58586942decf5101b2e6a2d64f90c37c26afe78bba1beb"
+  },
+  {
+    "index": 10,
+    "timestamp": "2025-05-25T12:24:16.952483",
+    "transactions": [
+      {
+        "sandik_no": "22",
+        "secmen_sayisi": 3,
+        "katilan_secmen": 3,
+        "katilim_orani": 100.0,
+        "oy_kullananlar": [
+          "565",
+          "65467",
+          "546"
+        ],
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25T12:24:16.952483"
+      }
+    ],
+    "previous_hash": "27ac17f31133122dec58586942decf5101b2e6a2d64f90c37c26afe78bba1beb",
+    "hash": "9addb3c19bfb1767a20868227039c5a7de174790671718dc32ffc346247064cb"
+  },
+  {
+    "index": 11,
+    "timestamp": "2025-05-25T12:31:14.687960",
+    "transactions": [
+      {
+        "sandik_no": "44",
+        "secmen_sayisi": 3,
+        "katilan_secmen": 3,
+        "katilim_orani": 100.0,
+        "oy_kullananlar": [
+          "344",
+          "345",
+          "346"
+        ],
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25T12:31:14.687960"
+      }
+    ],
+    "previous_hash": "9addb3c19bfb1767a20868227039c5a7de174790671718dc32ffc346247064cb",
+    "hash": "ffb5cfc3d6e9518432d8192240b6bc3d20bd6523aca6d17d604c6c7ccbb3ca9e"
+  },
+  {
+    "index": 12,
+    "timestamp": "2025-05-25T12:33:42.392119",
+    "transactions": [
+      {
+        "sandik_no": "4",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "katilim_orani": 100.0,
+        "oy_kullananlar": [
+          "434",
+          "435"
+        ],
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25T12:33:42.392119"
+      }
+    ],
+    "previous_hash": "ffb5cfc3d6e9518432d8192240b6bc3d20bd6523aca6d17d604c6c7ccbb3ca9e",
+    "hash": "8a0c05fe3aa57a38c1e00f332c7c3eabd1cd060c90aedc84797880a5c38154e3"
+  },
+  {
+    "index": 13,
+    "timestamp": "2025-05-25T12:36:39.269504",
+    "transactions": [
+      {
+        "sandik_no": "4",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "katilim_orani": 100.0,
+        "oy_kullananlar": [
+          "43",
+          "4345"
+        ],
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-25T12:36:39.269504"
+      }
+    ],
+    "previous_hash": "8a0c05fe3aa57a38c1e00f332c7c3eabd1cd060c90aedc84797880a5c38154e3",
+    "hash": "353ddf541bbbb5b405db3ed9b362bfb6d3fe0e650267dc9807ac988efca7600f"
+  },
+  {
+    "index": 14,
+    "timestamp": "2025-05-25T12:37:00.819734",
+    "transactions": [
+      {
+        "sandik_no": "4",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "katilim_orani": 100.0,
+        "oy_kullananlar": [
+          "656",
+          "6546"
+        ],
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-25T12:37:00.819734"
+      }
+    ],
+    "previous_hash": "353ddf541bbbb5b405db3ed9b362bfb6d3fe0e650267dc9807ac988efca7600f",
+    "hash": "05b67b9b23e8909c9be932c20bb978fc545749fc6c6056339c95d86bf839c826"
+  },
+  {
+    "index": 15,
+    "timestamp": "2025-05-25T12:48:46.782079",
+    "transactions": [
+      {
+        "salon_no": "4353",
+        "sandik_no": "42",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "katilim_orani": 100.0,
+        "oy_kullananlar": [
+          "324",
+          "4324"
+        ],
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25T12:48:46.782079"
+      }
+    ],
+    "previous_hash": "05b67b9b23e8909c9be932c20bb978fc545749fc6c6056339c95d86bf839c826",
+    "hash": "04c56cff1f0338a2e1262b52d68071dc752b0f419359b02a499c08d5f854e2e8"
+  },
+  {
+    "index": 16,
+    "timestamp": "2025-05-25T12:50:43.518447",
+    "transactions": [
+      {
+        "salon_no": "5432",
+        "sandik_no": "232",
+        "secmen_sayisi": 4,
+        "katilan_secmen": 2,
+        "katilim_orani": 50.0,
+        "oy_kullananlar": [
+          "32",
+          "321"
+        ],
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25T12:50:43.518447"
+      }
+    ],
+    "previous_hash": "04c56cff1f0338a2e1262b52d68071dc752b0f419359b02a499c08d5f854e2e8",
+    "hash": "e9bd857d056308106cf64e407c8139c04482bb363cb8a590d72f89cdecbfdf87"
+  },
+  {
+    "index": 17,
+    "timestamp": "2025-05-25T12:50:48.133710",
+    "transactions": [
+      {
+        "salon_no": "5432",
+        "sandik_no": "232",
+        "secmen_sayisi": 4,
+        "katilan_secmen": 1,
+        "katilim_orani": 25.0,
+        "oy_kullananlar": [
+          "312"
+        ],
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25T12:50:48.133710"
+      }
+    ],
+    "previous_hash": "e9bd857d056308106cf64e407c8139c04482bb363cb8a590d72f89cdecbfdf87",
+    "hash": "34eaa6c6ffffcd6fd8dc568059139b46de27cab42879bd24d4ee41f8173b92b9"
+  },
+  {
+    "index": 18,
+    "timestamp": "2025-05-25T12:51:40.380486",
+    "transactions": [
+      {
+        "salon_no": "5432",
+        "sandik_no": "232",
+        "secmen_sayisi": 4,
+        "katilan_secmen": 1,
+        "katilim_orani": 25.0,
+        "oy_kullananlar": [
+          "gfdg"
+        ],
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25T12:51:40.380486"
+      }
+    ],
+    "previous_hash": "34eaa6c6ffffcd6fd8dc568059139b46de27cab42879bd24d4ee41f8173b92b9",
+    "hash": "56275dd29dd41f1df324be40a41c9a69dd27474fbbb59d8b6fc6b19d3b771dd6"
+  },
+  {
+    "index": 19,
+    "timestamp": "2025-05-25T12:51:54.822519",
+    "transactions": [
+      {
+        "salon_no": "5432",
+        "sandik_no": "232",
+        "secmen_sayisi": 4,
+        "katilan_secmen": 1,
+        "katilim_orani": 25.0,
+        "oy_kullananlar": [
+          "435"
+        ],
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25T12:51:54.822519"
+      }
+    ],
+    "previous_hash": "56275dd29dd41f1df324be40a41c9a69dd27474fbbb59d8b6fc6b19d3b771dd6",
+    "hash": "743db73898469065f30065e5314e0e343eb5e3519813307e603d209849d0b3c2"
+  },
+  {
+    "index": 20,
+    "timestamp": "2025-05-25T12:52:02.358622",
+    "transactions": [
+      {
+        "salon_no": "5432",
+        "sandik_no": "232",
+        "secmen_sayisi": 4,
+        "katilan_secmen": 3,
+        "katilim_orani": 75.0,
+        "oy_kullananlar": [
+          "325",
+          "532",
+          "532"
+        ],
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25T12:52:02.358622"
+      }
+    ],
+    "previous_hash": "743db73898469065f30065e5314e0e343eb5e3519813307e603d209849d0b3c2",
+    "hash": "6585996512503cc5b4b09aff981769a1cda60f3c0da1f2f4247a0d3b39173830"
+  },
+  {
+    "index": 21,
+    "timestamp": "2025-05-25T13:04:02.905049",
+    "transactions": [
+      {
+        "sandik_no": "4",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "katilim_orani": 100.0,
+        "oy_kullananlar": [
+          "23",
+          "434"
+        ],
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25T13:04:02.905049"
+      }
+    ],
+    "previous_hash": "6585996512503cc5b4b09aff981769a1cda60f3c0da1f2f4247a0d3b39173830",
+    "hash": "1602f8b8669e2c74a779391734a1dee8abf8cc5f96f1d240497b9e8fab2d55a4"
+  },
+  {
+    "index": 22,
+    "timestamp": "2025-05-25T13:08:15.222927",
+    "transactions": [
+      {
+        "sandik_no": "432",
+        "salon_no": "436",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 1,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 13:08:15",
+        "oy_kullananlar": [
+          "4324"
+        ],
+        "katilim_orani": 50.0
+      }
+    ],
+    "previous_hash": "1602f8b8669e2c74a779391734a1dee8abf8cc5f96f1d240497b9e8fab2d55a4",
+    "hash": "1054b25fb45202c6c704462b77c3215ae0ccacd5937c5c252ba48ec7ce4d64de"
+  },
+  {
+    "index": 23,
+    "timestamp": "2025-05-25T13:08:19.687519",
+    "transactions": [
+      {
+        "sandik_no": "432",
+        "salon_no": "436",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 13:08:19",
+        "oy_kullananlar": [
+          "4324",
+          "545"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "1054b25fb45202c6c704462b77c3215ae0ccacd5937c5c252ba48ec7ce4d64de",
+    "hash": "50d6591cd2f4825b2c18de46bf1612eb0f08b99d0411bf68dc9c328074ff64e7"
+  },
+  {
+    "index": 24,
+    "timestamp": "2025-05-25T13:08:54.686562",
+    "transactions": [
+      {
+        "sandik_no": "432",
+        "salon_no": "436",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 13:08:54",
+        "oy_kullananlar": [
+          "4324",
+          "545"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "50d6591cd2f4825b2c18de46bf1612eb0f08b99d0411bf68dc9c328074ff64e7",
+    "hash": "4e9be37bd5043b19b7e8844fbf4a7d98eed64938bd9f4d6037ff1e7792b9a9ea"
+  },
+  {
+    "index": 25,
+    "timestamp": "2025-05-25T13:10:35.796728",
+    "transactions": [
+      {
+        "sandik_no": "454",
+        "salon_no": "45",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 13:10:35",
+        "oy_kullananlar": [
+          "43434",
+          "68768"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "4e9be37bd5043b19b7e8844fbf4a7d98eed64938bd9f4d6037ff1e7792b9a9ea",
+    "hash": "36db4d29c44c1c5ac4815c2bd5e19351578cc3c15d4f4f7e464c69b2f501709f"
+  },
+  {
+    "index": 26,
+    "timestamp": "2025-05-25T13:12:02.895072",
+    "transactions": [
+      {
+        "sandik_no": "454",
+        "salon_no": "454",
+        "secmen_sayisi": 3,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 13:12:02",
+        "oy_kullananlar": [
+          "54674",
+          "5435"
+        ],
+        "katilim_orani": 66.67
+      }
+    ],
+    "previous_hash": "36db4d29c44c1c5ac4815c2bd5e19351578cc3c15d4f4f7e464c69b2f501709f",
+    "hash": "c337e2ece1c692a341fd45de3c7aad647db4198b15fc068b206e58c44d6772ac"
+  },
+  {
+    "index": 27,
+    "timestamp": "2025-05-25T13:18:53.477625",
+    "transactions": [
+      {
+        "sandik_no": "2",
+        "salon_no": "34",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 13:18:53",
+        "oy_kullananlar": [
+          "32",
+          "312"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "c337e2ece1c692a341fd45de3c7aad647db4198b15fc068b206e58c44d6772ac",
+    "hash": "d1d0917829b2d24eba7717fc62d6015a989f5d5b3b5f28a518cae3ed44ed683e"
+  },
+  {
+    "index": 28,
+    "timestamp": "2025-05-25T13:21:04.862114",
+    "transactions": [
+      {
+        "sandik_no": "234",
+        "salon_no": "3424",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 1,
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-25 13:21:04",
+        "oy_kullananlar": [
+          "43432"
+        ],
+        "katilim_orani": 50.0
+      }
+    ],
+    "previous_hash": "d1d0917829b2d24eba7717fc62d6015a989f5d5b3b5f28a518cae3ed44ed683e",
+    "hash": "0abe6a45a023adc4f898a2157d8a914e6990dd79a625968d7c9178a807c19aae"
+  },
+  {
+    "index": 29,
+    "timestamp": "2025-05-25T13:28:11.062678",
+    "transactions": [
+      {
+        "sandik_no": "3232",
+        "salon_no": "432",
+        "secmen_sayisi": 3,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-25 13:28:11",
+        "oy_kullananlar": [
+          "222",
+          "111"
+        ],
+        "katilim_orani": 66.67
+      }
+    ],
+    "previous_hash": "0abe6a45a023adc4f898a2157d8a914e6990dd79a625968d7c9178a807c19aae",
+    "hash": "f3ba449f8d9548e2f8d82793160beae7ecdbe44e345ac9f9f372a95d9530ec46"
+  },
+  {
+    "index": 30,
+    "timestamp": "2025-05-25T13:28:20.788726",
+    "transactions": [
+      {
+        "sandik_no": "3232",
+        "salon_no": "432",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "222",
+          "111"
+        ],
+        "party_votes": {
+          "A": 2
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS001",
+        "timestamp": "2025-05-25 13:28:20",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS001"
+      }
+    ],
+    "previous_hash": "f3ba449f8d9548e2f8d82793160beae7ecdbe44e345ac9f9f372a95d9530ec46",
+    "hash": "215581bfad1375d32fdbace99011ac5af93b87de7384e4cbb94c54dbca2392e2"
+  },
+  {
+    "index": 31,
+    "timestamp": "2025-05-25T13:33:46.957999",
+    "transactions": [
+      {
+        "sandik_no": "23",
+        "salon_no": "434",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 1,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 13:33:46",
+        "oy_kullananlar": [
+          "34355"
+        ],
+        "katilim_orani": 50.0
+      }
+    ],
+    "previous_hash": "215581bfad1375d32fdbace99011ac5af93b87de7384e4cbb94c54dbca2392e2",
+    "hash": "935308697e675bd6e86a16e00684d995fe8f33f51a1180b6f7f602e982f5059e"
+  },
+  {
+    "index": 32,
+    "timestamp": "2025-05-25T13:34:15.085807",
+    "transactions": [
+      {
+        "sandik_no": "23",
+        "salon_no": "434",
+        "secmen_sayisi": 1,
+        "katilan_secmen": 1,
+        "oy_kullananlar": [
+          "34355"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 0
+        },
+        "total_votes": 1,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 13:34:15",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "935308697e675bd6e86a16e00684d995fe8f33f51a1180b6f7f602e982f5059e",
+    "hash": "85c1823cf007bb5b1f784cd055735a4a5df641e35f0286da081af4c516aee626"
+  },
+  {
+    "index": 33,
+    "timestamp": "2025-05-25T13:39:22.341766",
+    "transactions": [
+      {
+        "sandik_no": "25",
+        "salon_no": "43442",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 13:39:22",
+        "oy_kullananlar": [
+          "23432",
+          "23543"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "85c1823cf007bb5b1f784cd055735a4a5df641e35f0286da081af4c516aee626",
+    "hash": "bc55c7bfaffce73f88f4c57c40f5b5fc6f1e93b51ab0dcf0f8aacd1c8b5a428d"
+  },
+  {
+    "index": 34,
+    "timestamp": "2025-05-25T13:39:33.533747",
+    "transactions": [
+      {
+        "sandik_no": "25",
+        "salon_no": "43442",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "23432",
+          "23543"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 1
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 13:39:33",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "bc55c7bfaffce73f88f4c57c40f5b5fc6f1e93b51ab0dcf0f8aacd1c8b5a428d",
+    "hash": "4ae84fb8411241d14a9869bc699ca0f98bd36e730c5e10e232dc5e21c95e7534"
+  },
+  {
+    "index": 35,
+    "timestamp": "2025-05-25T13:53:13.636933",
+    "transactions": [
+      {
+        "sandik_no": "231",
+        "salon_no": "436",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-25 13:53:13",
+        "oy_kullananlar": [
+          "22",
+          "54"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "4ae84fb8411241d14a9869bc699ca0f98bd36e730c5e10e232dc5e21c95e7534",
+    "hash": "63230655f8861f2228225c1087bbcd1143a8cde79946890a626439b1e200c8c8"
+  },
+  {
+    "index": 36,
+    "timestamp": "2025-05-25T18:48:07.021087",
+    "transactions": [
+      {
+        "sandik_no": "432",
+        "salon_no": "4545",
+        "secmen_sayisi": 3,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 18:48:07",
+        "oy_kullananlar": [
+          "423",
+          "4234"
+        ],
+        "katilim_orani": 66.67
+      }
+    ],
+    "previous_hash": "63230655f8861f2228225c1087bbcd1143a8cde79946890a626439b1e200c8c8",
+    "hash": "d6640914999774fec1afd801283fa63b18b7ae84d7db8bf658dbc2ac86b77c7e"
+  },
+  {
+    "index": 37,
+    "timestamp": "2025-05-25T18:48:19.455712",
+    "transactions": [
+      {
+        "sandik_no": "432",
+        "salon_no": "4545",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "423",
+          "4234"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "BOŞ": 1,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 18:48:19",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "d6640914999774fec1afd801283fa63b18b7ae84d7db8bf658dbc2ac86b77c7e",
+    "hash": "ca1e6a2750de823bb27825d62c59b33742649c4720e20071a6c116e8b7780a59"
+  },
+  {
+    "index": 38,
+    "timestamp": "2025-05-25T18:49:43.711909",
+    "transactions": [
+      {
+        "sandik_no": "432",
+        "salon_no": "4545",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "423",
+          "4234"
+        ],
+        "party_votes": {
+          "A": 2,
+          "B": 0,
+          "C": 0,
+          "BOŞ": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 18:49:43",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "ca1e6a2750de823bb27825d62c59b33742649c4720e20071a6c116e8b7780a59",
+    "hash": "6b855ef7d8afbab2dcbbc381d168130a08b38255e7f06da342d39624b5679a6a"
+  },
+  {
+    "index": 39,
+    "timestamp": "2025-05-25T19:00:04.220698",
+    "transactions": [
+      {
+        "sandik_no": "423",
+        "salon_no": "324523",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 1,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 19:00:04",
+        "oy_kullananlar": [
+          "43"
+        ],
+        "katilim_orani": 50.0
+      }
+    ],
+    "previous_hash": "6b855ef7d8afbab2dcbbc381d168130a08b38255e7f06da342d39624b5679a6a",
+    "hash": "2131d128a6556b7aa4724d7a4e1ff33a76a977cc88ee1586c92b64f8dbef0b02"
+  },
+  {
+    "index": 40,
+    "timestamp": "2025-05-25T19:00:08.967649",
+    "transactions": [
+      {
+        "sandik_no": "423",
+        "salon_no": "324523",
+        "secmen_sayisi": 1,
+        "katilan_secmen": 1,
+        "oy_kullananlar": [
+          "43"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "BOŞ": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 1,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 19:00:08",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "2131d128a6556b7aa4724d7a4e1ff33a76a977cc88ee1586c92b64f8dbef0b02",
+    "hash": "76fe100a18a6078cdc72c86e540826dd68c4d964f574d3f63bc121211f79cb09"
+  },
+  {
+    "index": 41,
+    "timestamp": "2025-05-25T19:01:31.616544",
+    "transactions": [
+      {
+        "sandik_no": "546",
+        "salon_no": "7457",
+        "secmen_sayisi": 3,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 19:01:31",
+        "oy_kullananlar": [
+          "5346",
+          "7547"
+        ],
+        "katilim_orani": 66.67
+      }
+    ],
+    "previous_hash": "76fe100a18a6078cdc72c86e540826dd68c4d964f574d3f63bc121211f79cb09",
+    "hash": "0f10ca617914df4206a485ebdccb99352a4f3d3af3d2c3f6402bf3cdeff4a00e"
+  },
+  {
+    "index": 42,
+    "timestamp": "2025-05-25T19:01:42.056004",
+    "transactions": [
+      {
+        "sandik_no": "546",
+        "salon_no": "7457",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "5346",
+          "7547"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "BOŞ": 0,
+          "GEÇERSİZ": 1
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 19:01:42",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "0f10ca617914df4206a485ebdccb99352a4f3d3af3d2c3f6402bf3cdeff4a00e",
+    "hash": "855af4059cfed44a3dd0f3a9f7141696a3438234caac412b593b2f99cde9ca1a"
+  },
+  {
+    "index": 43,
+    "timestamp": "2025-05-25T19:40:39.279408",
+    "transactions": [
+      {
+        "sandik_no": "423",
+        "salon_no": "432532",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 19:40:39",
+        "oy_kullananlar": [
+          "45",
+          "646"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "855af4059cfed44a3dd0f3a9f7141696a3438234caac412b593b2f99cde9ca1a",
+    "hash": "d772339908416b4a7fbb3ee86efbdf0793cff1d90ed810e2b8a1054a9f51245b"
+  },
+  {
+    "index": 44,
+    "timestamp": "2025-05-25T19:40:44.612160",
+    "transactions": [
+      {
+        "sandik_no": "423",
+        "salon_no": "432532",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "45",
+          "646"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "BOŞ": 1,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 19:40:44",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "d772339908416b4a7fbb3ee86efbdf0793cff1d90ed810e2b8a1054a9f51245b",
+    "hash": "50d74c57175262820f52393e99dab071998af1b0cfd29ea595d1a654dc011469"
+  },
+  {
+    "index": 45,
+    "timestamp": "2025-05-25T19:45:46.495800",
+    "transactions": [
+      {
+        "sandik_no": "4324",
+        "salon_no": "435",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 19:45:46",
+        "oy_kullananlar": [
+          "4234",
+          "6547"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "50d74c57175262820f52393e99dab071998af1b0cfd29ea595d1a654dc011469",
+    "hash": "db6fb75633a388fabe081af26e824bb2f77c8cf73f5f152c6ad7974478b4d051"
+  },
+  {
+    "index": 46,
+    "timestamp": "2025-05-25T19:45:57.952566",
+    "transactions": [
+      {
+        "sandik_no": "4324",
+        "salon_no": "435",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "4234",
+          "6547"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "BOŞ": 1,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 19:45:57",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "db6fb75633a388fabe081af26e824bb2f77c8cf73f5f152c6ad7974478b4d051",
+    "hash": "f4188662460cf93bb062a0122a1f16848ebab9d4d377cad884a5f7e4b928070f"
+  },
+  {
+    "index": 47,
+    "timestamp": "2025-05-25T19:48:52.671872",
+    "transactions": [
+      {
+        "sandik_no": "67",
+        "salon_no": "876",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 19:48:52",
+        "oy_kullananlar": [
+          "654",
+          "758"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "f4188662460cf93bb062a0122a1f16848ebab9d4d377cad884a5f7e4b928070f",
+    "hash": "5d56922393f6bad41aaa3ae4f0e588ac2bea0c611521f2028b0e92cde7e00ebe"
+  },
+  {
+    "index": 48,
+    "timestamp": "2025-05-25T19:48:57.652297",
+    "transactions": [
+      {
+        "sandik_no": "67",
+        "salon_no": "876",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "654",
+          "758"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 0,
+          "C": 1,
+          "BOŞ": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 19:48:57",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "5d56922393f6bad41aaa3ae4f0e588ac2bea0c611521f2028b0e92cde7e00ebe",
+    "hash": "70d625946a3271101f307673019a420bf2e2d3855c59971e1c1d9207fedc33e8"
+  },
+  {
+    "index": 49,
+    "timestamp": "2025-05-25T19:55:02.728909",
+    "transactions": [
+      {
+        "sandik_no": "33",
+        "salon_no": "345",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 19:55:02",
+        "oy_kullananlar": [
+          "423",
+          "67575"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "70d625946a3271101f307673019a420bf2e2d3855c59971e1c1d9207fedc33e8",
+    "hash": "27f957775c10d18eff9ea6a67280b95e1797dff98e027b429fc84bde05cba03a"
+  },
+  {
+    "index": 50,
+    "timestamp": "2025-05-25T19:55:11.088496",
+    "transactions": [
+      {
+        "sandik_no": "33",
+        "salon_no": "345",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "423",
+          "67575"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "BOŞ": 0,
+          "GEÇERSİZ": 1
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 19:55:11",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "27f957775c10d18eff9ea6a67280b95e1797dff98e027b429fc84bde05cba03a",
+    "hash": "6d9e6d4d3e750986ca6ecb8f7a8accb55115e06b29aaef4700f5ec2f73728dc3"
+  },
+  {
+    "index": 51,
+    "timestamp": "2025-05-25T19:57:26.062668",
+    "transactions": [
+      {
+        "sandik_no": "525",
+        "salon_no": "435",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 19:57:26",
+        "oy_kullananlar": [
+          "6456",
+          "764"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "6d9e6d4d3e750986ca6ecb8f7a8accb55115e06b29aaef4700f5ec2f73728dc3",
+    "hash": "45b8a33ddeb6a67acde59da86581de4b9afb58b678694fef9a165da39355058a"
+  },
+  {
+    "index": 52,
+    "timestamp": "2025-05-25T19:57:33.608905",
+    "transactions": [
+      {
+        "sandik_no": "525",
+        "salon_no": "435",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "6456",
+          "764"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "GEÇERSİZ": 1
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 19:57:33",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "45b8a33ddeb6a67acde59da86581de4b9afb58b678694fef9a165da39355058a",
+    "hash": "8edf92ecf575ff7b3de424c50988d805ba07df43926a8bc422d632f04256d3c5"
+  },
+  {
+    "index": 53,
+    "timestamp": "2025-05-25T20:01:25.104290",
+    "transactions": [
+      {
+        "sandik_no": "312",
+        "salon_no": "4234",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:01:25",
+        "oy_kullananlar": [
+          "42",
+          "77"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "8edf92ecf575ff7b3de424c50988d805ba07df43926a8bc422d632f04256d3c5",
+    "hash": "82684b7609085fe958c9ac5e2f3c4e7ff5c90a007aa24a5107664ccc5f846270"
+  },
+  {
+    "index": 54,
+    "timestamp": "2025-05-25T20:01:30.992215",
+    "transactions": [
+      {
+        "sandik_no": "312",
+        "salon_no": "4234",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "42",
+          "77"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "GEÇERSİZ": 1
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:01:30",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "82684b7609085fe958c9ac5e2f3c4e7ff5c90a007aa24a5107664ccc5f846270",
+    "hash": "c08d28d0e9384976b3f44e0ecf2a8b70d3f36d0dbe190a8cdf2972efbce63b43"
+  },
+  {
+    "index": 55,
+    "timestamp": "2025-05-25T20:05:40.102608",
+    "transactions": [
+      {
+        "sandik_no": "425",
+        "salon_no": "4234",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:05:40",
+        "oy_kullananlar": [
+          "42526",
+          "54474"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "c08d28d0e9384976b3f44e0ecf2a8b70d3f36d0dbe190a8cdf2972efbce63b43",
+    "hash": "1fca6d14026d8bded4f01e3d2f4d85012626267255fb9833c34edea6b9433aa5"
+  },
+  {
+    "index": 56,
+    "timestamp": "2025-05-25T20:09:27.529028",
+    "transactions": [
+      {
+        "sandik_no": "654",
+        "salon_no": "6456",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:09:27",
+        "oy_kullananlar": [
+          "3245",
+          "6357"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "1fca6d14026d8bded4f01e3d2f4d85012626267255fb9833c34edea6b9433aa5",
+    "hash": "9343ecc9c6a07690c07eaf5e7d04f9b95954af49a50e7b7b927676f22f5bb8d0"
+  },
+  {
+    "index": 57,
+    "timestamp": "2025-05-25T20:09:32.192548",
+    "transactions": [
+      {
+        "sandik_no": "654",
+        "salon_no": "6456",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "3245",
+          "6357"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 0,
+          "C": 1,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:09:32",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "9343ecc9c6a07690c07eaf5e7d04f9b95954af49a50e7b7b927676f22f5bb8d0",
+    "hash": "0956196caca3516fe6701805575c2d663823a0ff6e04c989ac5a53e2690dbdbc"
+  },
+  {
+    "index": 58,
+    "timestamp": "2025-05-25T20:13:03.668948",
+    "transactions": [
+      {
+        "sandik_no": "342",
+        "salon_no": "53265",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:13:03",
+        "oy_kullananlar": [
+          "4325",
+          "667584"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "0956196caca3516fe6701805575c2d663823a0ff6e04c989ac5a53e2690dbdbc",
+    "hash": "01c0b368fa79593ee255ec0dee4177e3c413f836ac595115bd7eab22d710dc01"
+  },
+  {
+    "index": 59,
+    "timestamp": "2025-05-25T20:13:09.873516",
+    "transactions": [
+      {
+        "sandik_no": "342",
+        "salon_no": "53265",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "4325",
+          "667584"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 1
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:13:09",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "01c0b368fa79593ee255ec0dee4177e3c413f836ac595115bd7eab22d710dc01",
+    "hash": "83da714b02ffd645e1e62bbf09e85355a567535b8ffc335c5e7982131358df07"
+  },
+  {
+    "index": 60,
+    "timestamp": "2025-05-25T20:16:39.309182",
+    "transactions": [
+      {
+        "sandik_no": "4262",
+        "salon_no": "436",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:16:39",
+        "oy_kullananlar": [
+          "7568",
+          "9759"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "83da714b02ffd645e1e62bbf09e85355a567535b8ffc335c5e7982131358df07",
+    "hash": "9421694ac3a94142c9d96f77b015dffeccaca692d74516e5b0ecdb8280fbf9e9"
+  },
+  {
+    "index": 61,
+    "timestamp": "2025-05-25T20:16:44.264989",
+    "transactions": [
+      {
+        "sandik_no": "4262",
+        "salon_no": "436",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "7568",
+          "9759"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 0,
+          "C": 1,
+          "GEÇERSİZ": 1
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:16:44",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "9421694ac3a94142c9d96f77b015dffeccaca692d74516e5b0ecdb8280fbf9e9",
+    "hash": "603f84daa50b4bc3bc8d9b5d83848529c9fe1816a21cce6041908e26ae210bc8"
+  },
+  {
+    "index": 62,
+    "timestamp": "2025-05-25T20:19:26.559183",
+    "transactions": [
+      {
+        "sandik_no": "67547",
+        "salon_no": "6457",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:19:26",
+        "oy_kullananlar": [
+          "5347",
+          "848"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "603f84daa50b4bc3bc8d9b5d83848529c9fe1816a21cce6041908e26ae210bc8",
+    "hash": "20fa999c10c8678cc0d43f6287eac6f095078b2a8faf8805602b533b76f504db"
+  },
+  {
+    "index": 63,
+    "timestamp": "2025-05-25T20:19:31.135128",
+    "transactions": [
+      {
+        "sandik_no": "67547",
+        "salon_no": "6457",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "5347",
+          "848"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 1
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:19:31",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "20fa999c10c8678cc0d43f6287eac6f095078b2a8faf8805602b533b76f504db",
+    "hash": "3c64b58d5b8251dbdcbc4290623839df9a8020557ba13d3d5a6bdef2c092d1a0"
+  },
+  {
+    "index": 64,
+    "timestamp": "2025-05-25T20:23:14.849185",
+    "transactions": [
+      {
+        "sandik_no": "97860",
+        "salon_no": "78078",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 1,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:23:14",
+        "oy_kullananlar": [
+          "4235"
+        ],
+        "katilim_orani": 50.0
+      }
+    ],
+    "previous_hash": "3c64b58d5b8251dbdcbc4290623839df9a8020557ba13d3d5a6bdef2c092d1a0",
+    "hash": "6cf7c5056a956bf845b3fc89ffbde5e6fc50038ec130b5b2d9b01b44ec849f06"
+  },
+  {
+    "index": 65,
+    "timestamp": "2025-05-25T20:23:19.132700",
+    "transactions": [
+      {
+        "sandik_no": "97860",
+        "salon_no": "78078",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:23:19",
+        "oy_kullananlar": [
+          "4235",
+          "246"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "6cf7c5056a956bf845b3fc89ffbde5e6fc50038ec130b5b2d9b01b44ec849f06",
+    "hash": "f851c15e1e8f9eb85555f66b320092f359d9f237c8ab5312d5af8440151a8f7f"
+  },
+  {
+    "index": 66,
+    "timestamp": "2025-05-25T20:23:43.839403",
+    "transactions": [
+      {
+        "sandik_no": "97860",
+        "salon_no": "78078",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "4235",
+          "246"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 1
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:23:43",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "f851c15e1e8f9eb85555f66b320092f359d9f237c8ab5312d5af8440151a8f7f",
+    "hash": "136d47f90bff005bea8e1d260ee6e8b089040625237067451418f3fb995517fb"
+  },
+  {
+    "index": 67,
+    "timestamp": "2025-05-25T20:26:29.489465",
+    "transactions": [
+      {
+        "sandik_no": "6347",
+        "salon_no": "747",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:26:29",
+        "oy_kullananlar": [
+          "5436",
+          "75"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "136d47f90bff005bea8e1d260ee6e8b089040625237067451418f3fb995517fb",
+    "hash": "1fe8c35c022ea1f956c6b9d26a24b5e56734dbbab1c7bc1436883173dbc6118d"
+  },
+  {
+    "index": 68,
+    "timestamp": "2025-05-25T20:26:34.619343",
+    "transactions": [
+      {
+        "sandik_no": "6347",
+        "salon_no": "747",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "5436",
+          "75"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 1
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:26:34",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "1fe8c35c022ea1f956c6b9d26a24b5e56734dbbab1c7bc1436883173dbc6118d",
+    "hash": "04e4949a7f3846a436a9e3d95f333eca4ef64643fd8b3612893137ee37d119b3"
+  },
+  {
+    "index": 69,
+    "timestamp": "2025-05-25T20:41:11.302888",
+    "transactions": [
+      {
+        "sandik_no": "24",
+        "salon_no": "42343",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-25 20:41:11",
+        "oy_kullananlar": [
+          "3123",
+          "52352"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "04e4949a7f3846a436a9e3d95f333eca4ef64643fd8b3612893137ee37d119b3",
+    "hash": "3c509edc9cb49337a91b446a2dd39308d287acabfe2538f67213e9c56106c198"
+  },
+  {
+    "index": 70,
+    "timestamp": "2025-05-25T20:41:23.673181",
+    "transactions": [
+      {
+        "sandik_no": "24",
+        "salon_no": "42343",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "3123",
+          "52352"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 1
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS001",
+        "timestamp": "2025-05-25 20:41:23",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS001"
+      }
+    ],
+    "previous_hash": "3c509edc9cb49337a91b446a2dd39308d287acabfe2538f67213e9c56106c198",
+    "hash": "523aa552940c9e4c198d16bc7ab23dbb6648fd45f9a7f94fdb0cd24046c2e3ba"
+  },
+  {
+    "index": 71,
+    "timestamp": "2025-05-25T20:41:45.329702",
+    "transactions": [
+      {
+        "sandik_no": "24",
+        "salon_no": "42343",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "3123",
+          "52352"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 1
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS001",
+        "timestamp": "2025-05-25 20:41:45",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS001"
+      }
+    ],
+    "previous_hash": "523aa552940c9e4c198d16bc7ab23dbb6648fd45f9a7f94fdb0cd24046c2e3ba",
+    "hash": "2ba7cefe73bdf22985242b49b8801978306a747f98fa0a328ebe1bbebff9774e"
+  },
+  {
+    "index": 72,
+    "timestamp": "2025-05-25T20:41:56.247893",
+    "transactions": [
+      {
+        "sandik_no": "24",
+        "salon_no": "42343",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "3123",
+          "52352"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 1
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS001",
+        "timestamp": "2025-05-25 20:41:56",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS001"
+      }
+    ],
+    "previous_hash": "2ba7cefe73bdf22985242b49b8801978306a747f98fa0a328ebe1bbebff9774e",
+    "hash": "5b43d417cf3dca574d59038ce123de1a2a992edec81521cfbcf5af8fc0b4088a"
+  },
+  {
+    "index": 73,
+    "timestamp": "2025-05-25T20:41:58.911324",
+    "transactions": [
+      {
+        "sandik_no": "24",
+        "salon_no": "42343",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-25 20:41:58",
+        "oy_kullananlar": [
+          "3123",
+          "52352"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "5b43d417cf3dca574d59038ce123de1a2a992edec81521cfbcf5af8fc0b4088a",
+    "hash": "af9a8753dbe2a2e6d22ab1ccc01b3ff3bef9af2f8c419665e5bcb4935e3ee157"
+  },
+  {
+    "index": 74,
+    "timestamp": "2025-05-25T20:45:03.641095",
+    "transactions": [
+      {
+        "sandik_no": "4234",
+        "salon_no": "0321423",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-25 20:45:03",
+        "oy_kullananlar": [
+          "4325",
+          "867586"
+        ],
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "af9a8753dbe2a2e6d22ab1ccc01b3ff3bef9af2f8c419665e5bcb4935e3ee157",
+    "hash": "5c33ced055f8bf923122bdd4d9c84130dabb6f2ebdd43a00fc55c27b84eb37e5"
+  },
+  {
+    "index": 75,
+    "timestamp": "2025-05-25T20:45:09.889374",
+    "transactions": [
+      {
+        "sandik_no": "4234",
+        "salon_no": "0321423",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "4325",
+          "867586"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 0,
+          "C": 1,
+          "GEÇERSİZ": 1
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS001",
+        "timestamp": "2025-05-25 20:45:09",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS001"
+      }
+    ],
+    "previous_hash": "5c33ced055f8bf923122bdd4d9c84130dabb6f2ebdd43a00fc55c27b84eb37e5",
+    "hash": "d70197d5d39a9c7488000b97c51aa93ddcf241a934f7abe2182806cbfba3546a"
+  },
+  {
+    "index": 76,
+    "timestamp": "2025-05-25T20:48:25.633255",
+    "transactions": [
+      {
+        "sandik_no": "756",
+        "salon_no": "879",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:48:25",
+        "oy_kullananlar": [
+          "52",
+          "543"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 20:48:25",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "d70197d5d39a9c7488000b97c51aa93ddcf241a934f7abe2182806cbfba3546a",
+    "hash": "64fe92d4dcfa1c34c682e9bb18740be17716643e655dfbc3c7f93ae51dd6ef32"
+  },
+  {
+    "index": 77,
+    "timestamp": "2025-05-25T20:48:40.639471",
+    "transactions": [
+      {
+        "sandik_no": "756",
+        "salon_no": "879",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "52",
+          "543"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 0,
+          "C": 1,
+          "GEÇERSİZ": 1
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:48:40",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 20:48:40",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "64fe92d4dcfa1c34c682e9bb18740be17716643e655dfbc3c7f93ae51dd6ef32",
+    "hash": "b648e48426765f8f6fcf03db4011ac29ef3e1e9bdcef4ec54b6ecc61d513135d"
+  },
+  {
+    "index": 78,
+    "timestamp": "2025-05-25T20:58:03.473881",
+    "transactions": [
+      {
+        "sandik_no": "5324",
+        "salon_no": "5436",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:58:03",
+        "oy_kullananlar": [
+          "4245",
+          "5436734"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 20:58:03",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "b648e48426765f8f6fcf03db4011ac29ef3e1e9bdcef4ec54b6ecc61d513135d",
+    "hash": "b8ed1cc6cc62fada974132378a3cf1a40e1c136c62d827895d7e3b158a768727"
+  },
+  {
+    "index": 79,
+    "timestamp": "2025-05-25T20:58:10.057438",
+    "transactions": [
+      {
+        "sandik_no": "5324",
+        "salon_no": "5436",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "4245",
+          "5436734"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 1
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 20:58:10",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 20:58:10",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "b8ed1cc6cc62fada974132378a3cf1a40e1c136c62d827895d7e3b158a768727",
+    "hash": "6eb7f2c3019853beb1364ab4e70790d78e2308cbe2ac3ccff55088ad2d551d73"
+  },
+  {
+    "index": 80,
+    "timestamp": "2025-05-25T21:01:09.497861",
+    "transactions": [
+      {
+        "sandik_no": "2432",
+        "salon_no": "5346",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 1,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:01:09",
+        "oy_kullananlar": [
+          "4325"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 21:01:09",
+        "katilim_orani": 50.0
+      }
+    ],
+    "previous_hash": "6eb7f2c3019853beb1364ab4e70790d78e2308cbe2ac3ccff55088ad2d551d73",
+    "hash": "6aef589d0219d56e641fd3a9ba15cf864150a96dc6a9ab62c8ac5fd6cd31723b"
+  },
+  {
+    "index": 81,
+    "timestamp": "2025-05-25T21:01:13.486234",
+    "transactions": [
+      {
+        "sandik_no": "2432",
+        "salon_no": "5346",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:01:13",
+        "oy_kullananlar": [
+          "4325",
+          "7657"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 21:01:13",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "6aef589d0219d56e641fd3a9ba15cf864150a96dc6a9ab62c8ac5fd6cd31723b",
+    "hash": "4f623629b7b722e2190be31fc16b0bb155432015c476cc6dbbbf915fcae807dc"
+  },
+  {
+    "index": 82,
+    "timestamp": "2025-05-25T21:01:20.457661",
+    "transactions": [
+      {
+        "sandik_no": "2432",
+        "salon_no": "5346",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "4325",
+          "7657"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 2,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:01:20",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 21:01:20",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "4f623629b7b722e2190be31fc16b0bb155432015c476cc6dbbbf915fcae807dc",
+    "hash": "5e9a0ce7683425af73534994675a7c76f260b836ae764a5e2a255369bc7e32aa"
+  },
+  {
+    "index": 83,
+    "timestamp": "2025-05-25T21:03:21.754409",
+    "transactions": [
+      {
+        "sandik_no": "6326",
+        "salon_no": "4537",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:03:21",
+        "oy_kullananlar": [
+          "4326347",
+          "6437657"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 21:03:21",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "5e9a0ce7683425af73534994675a7c76f260b836ae764a5e2a255369bc7e32aa",
+    "hash": "5f7d2e786bf1775e443fca6424bcb458015497ce8915b9a9ce6dce87b1e2e932"
+  },
+  {
+    "index": 84,
+    "timestamp": "2025-05-25T21:03:25.948546",
+    "transactions": [
+      {
+        "sandik_no": "6326",
+        "salon_no": "4537",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "4326347",
+          "6437657"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 2,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:03:25",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 21:03:25",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "5f7d2e786bf1775e443fca6424bcb458015497ce8915b9a9ce6dce87b1e2e932",
+    "hash": "67858f26c4979209e73083c5b3de4ca1fefa702d58ca7fc67660dd7d6def3a0e"
+  },
+  {
+    "index": 85,
+    "timestamp": "2025-05-25T21:04:05.586205",
+    "transactions": [
+      {
+        "sandik_no": "65436",
+        "salon_no": "64576",
+        "secmen_sayisi": 1,
+        "katilan_secmen": 1,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:04:05",
+        "oy_kullananlar": [
+          "432"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 21:04:05",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "67858f26c4979209e73083c5b3de4ca1fefa702d58ca7fc67660dd7d6def3a0e",
+    "hash": "30407bec6c75aeb4194cebe758b3f9a7302aa6fe4fec7bd5d51db4bfd2c520e2"
+  },
+  {
+    "index": 86,
+    "timestamp": "2025-05-25T21:04:09.138056",
+    "transactions": [
+      {
+        "sandik_no": "65436",
+        "salon_no": "64576",
+        "secmen_sayisi": 1,
+        "katilan_secmen": 1,
+        "oy_kullananlar": [
+          "432"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 1,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:04:09",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 21:04:09",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "30407bec6c75aeb4194cebe758b3f9a7302aa6fe4fec7bd5d51db4bfd2c520e2",
+    "hash": "f6cedf64f9b5df22083d38378fe69a6c61d7502ec37da36102349d53e5efbf1a"
+  },
+  {
+    "index": 87,
+    "timestamp": "2025-05-25T21:05:31.706256",
+    "transactions": [
+      {
+        "sandik_no": "5",
+        "salon_no": "5346",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:05:31",
+        "oy_kullananlar": [
+          "32432",
+          "53425"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 21:05:31",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "f6cedf64f9b5df22083d38378fe69a6c61d7502ec37da36102349d53e5efbf1a",
+    "hash": "43bc24620f6cf7ca03680738adcddc73f045281c89b37a2967907a0b0d93ab90"
+  },
+  {
+    "index": 88,
+    "timestamp": "2025-05-25T21:05:35.627277",
+    "transactions": [
+      {
+        "sandik_no": "5",
+        "salon_no": "5346",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "32432",
+          "53425"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:05:35",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 21:05:35",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "43bc24620f6cf7ca03680738adcddc73f045281c89b37a2967907a0b0d93ab90",
+    "hash": "af7fb7d7230d864406fdf3d314fb3bf0a54d81eb9c567cb1de4cc50ed8340f62"
+  },
+  {
+    "index": 89,
+    "timestamp": "2025-05-25T21:07:06.707648",
+    "transactions": [
+      {
+        "sandik_no": "643754",
+        "salon_no": "4364",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:07:06",
+        "oy_kullananlar": [
+          "546",
+          "75648"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 21:07:06",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "af7fb7d7230d864406fdf3d314fb3bf0a54d81eb9c567cb1de4cc50ed8340f62",
+    "hash": "f6fbef5e412e351bcffc18316413129b90759fd8506e68eda732a4590caaa879"
+  },
+  {
+    "index": 90,
+    "timestamp": "2025-05-25T21:07:16.150080",
+    "transactions": [
+      {
+        "sandik_no": "643754",
+        "salon_no": "4364",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "546",
+          "75648"
+        ],
+        "party_votes": {
+          "A": 2,
+          "B": 0,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:07:16",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 21:07:16",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "f6fbef5e412e351bcffc18316413129b90759fd8506e68eda732a4590caaa879",
+    "hash": "b7a548bf74714fa58d9a2230c8578c269168e10fc406ed9f9921178c996e74d5"
+  },
+  {
+    "index": 91,
+    "timestamp": "2025-05-25T21:09:22.867600",
+    "transactions": [
+      {
+        "sandik_no": "4325",
+        "salon_no": "54353",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:09:22",
+        "oy_kullananlar": [
+          "423532",
+          "7547"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 21:09:22",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "b7a548bf74714fa58d9a2230c8578c269168e10fc406ed9f9921178c996e74d5",
+    "hash": "7c11532fbe3ccceeef3d6bc6eec6b7f651811c806cbea46b83e577923e042660"
+  },
+  {
+    "index": 92,
+    "timestamp": "2025-05-25T21:09:28.929517",
+    "transactions": [
+      {
+        "sandik_no": "4325",
+        "salon_no": "54353",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "423532",
+          "7547"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:09:28",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 21:09:28",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "7c11532fbe3ccceeef3d6bc6eec6b7f651811c806cbea46b83e577923e042660",
+    "hash": "70906e43f5c220810ec3a5f315b62531986889218fc738a682fcbbde12621d25"
+  },
+  {
+    "index": 93,
+    "timestamp": "2025-05-25T21:12:22.496841",
+    "transactions": [
+      {
+        "sandik_no": "4234",
+        "salon_no": "4325",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:12:22",
+        "oy_kullananlar": [
+          "325432",
+          "6437"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 21:12:22",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "70906e43f5c220810ec3a5f315b62531986889218fc738a682fcbbde12621d25",
+    "hash": "fad7dfec26feb1e3f5a1af3854c7ab1e58a93f6df671270d28dc7b222052069b"
+  },
+  {
+    "index": 94,
+    "timestamp": "2025-05-25T21:15:20.936536",
+    "transactions": [
+      {
+        "sandik_no": "535",
+        "salon_no": "534643",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:15:20",
+        "oy_kullananlar": [
+          "6754634",
+          "7547"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 21:15:20",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "fad7dfec26feb1e3f5a1af3854c7ab1e58a93f6df671270d28dc7b222052069b",
+    "hash": "f203ffcb8aec9ba892c639d618dfd5597aba761f4c61d3897687db3c6aeae125"
+  },
+  {
+    "index": 95,
+    "timestamp": "2025-05-25T21:15:26.787533",
+    "transactions": [
+      {
+        "sandik_no": "535",
+        "salon_no": "534643",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "6754634",
+          "7547"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 0,
+          "C": 1,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:15:26",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 21:15:26",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "f203ffcb8aec9ba892c639d618dfd5597aba761f4c61d3897687db3c6aeae125",
+    "hash": "6b8afe5c0427dc18dd564c3452e9d12d5bf25d8eb5392de70f077833df0f8408"
+  },
+  {
+    "index": 96,
+    "timestamp": "2025-05-25T21:15:37.177965",
+    "transactions": [
+      {
+        "sandik_no": "535",
+        "salon_no": "534643",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "6754634",
+          "7547"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 0,
+          "C": 1,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:15:37",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 21:15:37",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "6b8afe5c0427dc18dd564c3452e9d12d5bf25d8eb5392de70f077833df0f8408",
+    "hash": "0d20f70ec6e803fee5417670616141dcf1789a488d671589dcf4011f7d27d4b2"
+  },
+  {
+    "index": 97,
+    "timestamp": "2025-05-25T21:17:51.376245",
+    "transactions": [
+      {
+        "sandik_no": "342543",
+        "salon_no": "54353",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:17:51",
+        "oy_kullananlar": [
+          "3213421",
+          "4214"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 21:17:51",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "0d20f70ec6e803fee5417670616141dcf1789a488d671589dcf4011f7d27d4b2",
+    "hash": "7fc6795586fa6edb53ac1da0a3e1834a27d9a52ff4639656d06d0210bf1415b3"
+  },
+  {
+    "index": 98,
+    "timestamp": "2025-05-25T21:17:55.929814",
+    "transactions": [
+      {
+        "sandik_no": "342543",
+        "salon_no": "54353",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "3213421",
+          "4214"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 0,
+          "C": 1,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:17:55",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 21:17:55",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "7fc6795586fa6edb53ac1da0a3e1834a27d9a52ff4639656d06d0210bf1415b3",
+    "hash": "2a9034b40404c86040c09c9cc8cb870f066f8e35903c8067afb7fdfbbe7c1019"
+  },
+  {
+    "index": 99,
+    "timestamp": "2025-05-25T21:20:08.947605",
+    "transactions": [
+      {
+        "sandik_no": "242",
+        "salon_no": "325",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:20:08",
+        "oy_kullananlar": [
+          "32423",
+          "5325"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 21:20:08",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "2a9034b40404c86040c09c9cc8cb870f066f8e35903c8067afb7fdfbbe7c1019",
+    "hash": "78c4247faf7dca9c76a3e93c4d29c674e900e9b482b400abbe8a669dc3bf5d62"
+  },
+  {
+    "index": 100,
+    "timestamp": "2025-05-25T21:20:13.978047",
+    "transactions": [
+      {
+        "sandik_no": "242",
+        "salon_no": "325",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "32423",
+          "5325"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 1,
+          "C": 1,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:20:13",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 21:20:13",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "78c4247faf7dca9c76a3e93c4d29c674e900e9b482b400abbe8a669dc3bf5d62",
+    "hash": "5a7c632f905da4ceade6827dc5d620b9c0d01d51e6d05a03e15a72ccfb88f908"
+  },
+  {
+    "index": 101,
+    "timestamp": "2025-05-25T21:22:21.811504",
+    "transactions": [
+      {
+        "sandik_no": "234234",
+        "salon_no": "423423",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:22:21",
+        "oy_kullananlar": [
+          "43242",
+          "2353"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 21:22:21",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "5a7c632f905da4ceade6827dc5d620b9c0d01d51e6d05a03e15a72ccfb88f908",
+    "hash": "06e826accc9c1e6fec39105e55c50beb601c2f37eedb1047394dee27c14ca38d"
+  },
+  {
+    "index": 102,
+    "timestamp": "2025-05-25T21:22:26.039826",
+    "transactions": [
+      {
+        "sandik_no": "234234",
+        "salon_no": "423423",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "43242",
+          "2353"
+        ],
+        "party_votes": {
+          "A": 2,
+          "B": 0,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:22:26",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 21:22:26",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "06e826accc9c1e6fec39105e55c50beb601c2f37eedb1047394dee27c14ca38d",
+    "hash": "87df635acb305852dd4c9d4ea2de657a8ea01277b0fb8a6f4724c67ef440a5db"
+  },
+  {
+    "index": 103,
+    "timestamp": "2025-05-25T21:22:39.826515",
+    "transactions": [
+      {
+        "sandik_no": "234234",
+        "salon_no": "423423",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "43242",
+          "2353"
+        ],
+        "party_votes": {
+          "A": 2,
+          "B": 0,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:22:39",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 21:22:39",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "87df635acb305852dd4c9d4ea2de657a8ea01277b0fb8a6f4724c67ef440a5db",
+    "hash": "b87ca9c4c48d34cd6dae47f87fff4e7fb4c68af3af8fbe3f83a82503bf5ec10f"
+  },
+  {
+    "index": 104,
+    "timestamp": "2025-05-25T21:22:48.698641",
+    "transactions": [
+      {
+        "sandik_no": "234234",
+        "salon_no": "423423",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "43242",
+          "2353"
+        ],
+        "party_votes": {
+          "A": 2,
+          "B": 0,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:22:48",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 21:22:48",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "b87ca9c4c48d34cd6dae47f87fff4e7fb4c68af3af8fbe3f83a82503bf5ec10f",
+    "hash": "312d4c47b4e6c09da7ff2bf1ee17b32e35fa0e849c66162dc97931691f1799df"
+  },
+  {
+    "index": 105,
+    "timestamp": "2025-05-25T21:23:06.986453",
+    "transactions": [
+      {
+        "sandik_no": "234234",
+        "salon_no": "423423",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 21:23:06",
+        "oy_kullananlar": [
+          "43242",
+          "2353"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 21:23:06",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "312d4c47b4e6c09da7ff2bf1ee17b32e35fa0e849c66162dc97931691f1799df",
+    "hash": "a4ddafc6d5f45a49bb26e0c54d64c34a36c83612268e5896ce146d11c16ac683"
+  },
+  {
+    "index": 106,
+    "timestamp": "2025-05-25T23:33:39.683534",
+    "transactions": [
+      {
+        "sandik_no": "32432",
+        "salon_no": "432521",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 23:33:39",
+        "oy_kullananlar": [
+          "324",
+          "7654765"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 23:33:39",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "a4ddafc6d5f45a49bb26e0c54d64c34a36c83612268e5896ce146d11c16ac683",
+    "hash": "71a4d2943f0f08df13f4e5ba40d86ffcf43b4845b81807bab0ba94315d013d83"
+  },
+  {
+    "index": 107,
+    "timestamp": "2025-05-25T23:33:43.785978",
+    "transactions": [
+      {
+        "sandik_no": "32432",
+        "salon_no": "432521",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "324",
+          "7654765"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 2,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 23:33:43",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 23:33:43",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "71a4d2943f0f08df13f4e5ba40d86ffcf43b4845b81807bab0ba94315d013d83",
+    "hash": "e03b44559642242bd1ac09303b393274fb93d35f2a8b92296d8442ded3997cb4"
+  },
+  {
+    "index": 108,
+    "timestamp": "2025-05-25T23:34:19.867022",
+    "transactions": [
+      {
+        "sandik_no": "32432",
+        "salon_no": "432521",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "324",
+          "7654765"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 2,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 23:34:19",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 23:34:19",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "e03b44559642242bd1ac09303b393274fb93d35f2a8b92296d8442ded3997cb4",
+    "hash": "23653d57e4a1d5941897b6fd1216f4664632ea7d97036bef9b8091b2e1b2af42"
+  },
+  {
+    "index": 109,
+    "timestamp": "2025-05-25T23:35:53.359111",
+    "transactions": [
+      {
+        "sandik_no": "32432",
+        "salon_no": "432521",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 23:35:53",
+        "oy_kullananlar": [
+          "324",
+          "7654765"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 23:35:53",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "23653d57e4a1d5941897b6fd1216f4664632ea7d97036bef9b8091b2e1b2af42",
+    "hash": "8f1d84ac782998880a3e108efafa30072470ac22e41a96d333fc0ec3882a6e39"
+  },
+  {
+    "index": 110,
+    "timestamp": "2025-05-25T23:37:47.238978",
+    "transactions": [
+      {
+        "sandik_no": "3453",
+        "salon_no": "67546",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-25 23:37:47",
+        "oy_kullananlar": [
+          "536",
+          "6746"
+        ],
+        "last_updater_vote_tracking": "Ahmet Yılmaz",
+        "last_update_time_vote_tracking": "2025-05-25 23:37:47",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "8f1d84ac782998880a3e108efafa30072470ac22e41a96d333fc0ec3882a6e39",
+    "hash": "e3463630b19c7a6ea7161de7cb3c7f23c609631d88bd60a448d8f166d8eeb8e8"
+  },
+  {
+    "index": 111,
+    "timestamp": "2025-05-25T23:37:55.328975",
+    "transactions": [
+      {
+        "sandik_no": "3453",
+        "salon_no": "67546",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "536",
+          "6746"
+        ],
+        "party_votes": {
+          "A": 2,
+          "B": 0,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS001",
+        "timestamp": "2025-05-25 23:37:55",
+        "last_updater_party_votes": "Ahmet Yılmaz",
+        "last_update_time_party_votes": "2025-05-25 23:37:55",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS001"
+      }
+    ],
+    "previous_hash": "e3463630b19c7a6ea7161de7cb3c7f23c609631d88bd60a448d8f166d8eeb8e8",
+    "hash": "7fddd9ed3d2e09d4942e0ecd524ff607cbcbc152b45174984c9866acc5d63815"
+  },
+  {
+    "index": 112,
+    "timestamp": "2025-05-25T23:39:55.708843",
+    "transactions": [
+      {
+        "sandik_no": "3432",
+        "salon_no": "5435",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 23:39:55",
+        "oy_kullananlar": [
+          "4325",
+          "111"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 23:39:55",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "7fddd9ed3d2e09d4942e0ecd524ff607cbcbc152b45174984c9866acc5d63815",
+    "hash": "1d1c0a6c777042d5941fd271b03ca21d39f2ccf446d059828c1210bb5fcddda9"
+  },
+  {
+    "index": 113,
+    "timestamp": "2025-05-25T23:40:01.180055",
+    "transactions": [
+      {
+        "sandik_no": "3432",
+        "salon_no": "5435",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "4325",
+          "111"
+        ],
+        "party_votes": {
+          "A": 2,
+          "B": 0,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 23:40:01",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 23:40:01",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "1d1c0a6c777042d5941fd271b03ca21d39f2ccf446d059828c1210bb5fcddda9",
+    "hash": "b84f399d679b48b50ebae7f96b8efed31afbca387606ec14632e2aa56c05d812"
+  },
+  {
+    "index": 114,
+    "timestamp": "2025-05-25T23:40:24.258818",
+    "transactions": [
+      {
+        "sandik_no": "3432",
+        "salon_no": "5435",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "4325",
+          "111"
+        ],
+        "party_votes": {
+          "A": 2,
+          "B": 0,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 23:40:24",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 23:40:24",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "b84f399d679b48b50ebae7f96b8efed31afbca387606ec14632e2aa56c05d812",
+    "hash": "993b56811218d339e02ab62468e86183fbc5d0e40851d89df8037f16855a087b"
+  },
+  {
+    "index": 115,
+    "timestamp": "2025-05-25T23:43:41.889010",
+    "transactions": [
+      {
+        "sandik_no": "214321",
+        "salon_no": "4234235",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 23:43:41",
+        "oy_kullananlar": [
+          "565346",
+          "765478"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 23:43:41",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "993b56811218d339e02ab62468e86183fbc5d0e40851d89df8037f16855a087b",
+    "hash": "9402e46cbf07556827003113c9d003bffcf49ee1885365d45f66a235c4aedfba"
+  },
+  {
+    "index": 116,
+    "timestamp": "2025-05-25T23:44:06.448809",
+    "transactions": [
+      {
+        "sandik_no": "214321",
+        "salon_no": "4234235",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "565346",
+          "765478"
+        ],
+        "party_votes": {
+          "A": 2,
+          "B": 0,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 23:44:06",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 23:44:06",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "9402e46cbf07556827003113c9d003bffcf49ee1885365d45f66a235c4aedfba",
+    "hash": "9205e071c8495a0fb507c03bd462223c41c9a6bad23e1c048e962be8b00c25aa"
+  },
+  {
+    "index": 117,
+    "timestamp": "2025-05-25T23:44:28.848701",
+    "transactions": [
+      {
+        "sandik_no": "214321",
+        "salon_no": "4234235",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 23:44:28",
+        "oy_kullananlar": [
+          "565346",
+          "765478"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 23:44:28",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "9205e071c8495a0fb507c03bd462223c41c9a6bad23e1c048e962be8b00c25aa",
+    "hash": "4f49de89835be759605ef6b17012a754829398c15d94489e885d3c58cdc90376"
+  },
+  {
+    "index": 118,
+    "timestamp": "2025-05-25T23:45:33.195311",
+    "transactions": [
+      {
+        "sandik_no": "214321",
+        "salon_no": "4234235",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "565346",
+          "765478"
+        ],
+        "party_votes": {
+          "A": 2,
+          "B": 0,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 23:45:33",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 23:45:33",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "4f49de89835be759605ef6b17012a754829398c15d94489e885d3c58cdc90376",
+    "hash": "5b2f77ed6904c2883111bff095b2b7facba991b8205fc8f7bafbeda7f1ae1f55"
+  },
+  {
+    "index": 119,
+    "timestamp": "2025-05-25T23:47:22.318768",
+    "transactions": [
+      {
+        "sandik_no": "214321",
+        "salon_no": "4234235",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 23:47:22",
+        "oy_kullananlar": [
+          "565346",
+          "765478"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 23:47:22",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "5b2f77ed6904c2883111bff095b2b7facba991b8205fc8f7bafbeda7f1ae1f55",
+    "hash": "2eb5b5e6d4f5a77070a11cf93cbe303565e24edde2f348bd6064f9e554bab855"
+  },
+  {
+    "index": 120,
+    "timestamp": "2025-05-25T23:49:21.681715",
+    "transactions": [
+      {
+        "sandik_no": "3",
+        "salon_no": "44324",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 23:49:21",
+        "oy_kullananlar": [
+          "342432",
+          "532432"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 23:49:21",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "2eb5b5e6d4f5a77070a11cf93cbe303565e24edde2f348bd6064f9e554bab855",
+    "hash": "db4530b9edeb2227b807f902601923dc54ec69f76e2bec2460b841022afb312b"
+  },
+  {
+    "index": 121,
+    "timestamp": "2025-05-25T23:49:26.874713",
+    "transactions": [
+      {
+        "sandik_no": "3432",
+        "salon_no": "44324",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "342432",
+          "532432"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 23:49:26",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 23:49:26",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "db4530b9edeb2227b807f902601923dc54ec69f76e2bec2460b841022afb312b",
+    "hash": "87dc61c8fdaa92e9b3983974e4925d84b15dd112a3d3d5ac4e8ddf56cce981aa"
+  },
+  {
+    "index": 122,
+    "timestamp": "2025-05-25T23:49:33.267073",
+    "transactions": [
+      {
+        "sandik_no": "3432",
+        "salon_no": "44324",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "342432",
+          "532432"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 23:49:33",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 23:49:33",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "87dc61c8fdaa92e9b3983974e4925d84b15dd112a3d3d5ac4e8ddf56cce981aa",
+    "hash": "362403832f2d1e0f7a2ee9216edfef955a5ea6e045759dd5f36ea5c764ed5e30"
+  },
+  {
+    "index": 123,
+    "timestamp": "2025-05-25T23:49:40.427963",
+    "transactions": [
+      {
+        "sandik_no": "3",
+        "salon_no": "44324",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 23:49:40",
+        "oy_kullananlar": [
+          "342432",
+          "532432"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 23:49:40",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "362403832f2d1e0f7a2ee9216edfef955a5ea6e045759dd5f36ea5c764ed5e30",
+    "hash": "ea207b9a26fbf805d3dae22a1f4c3bb4603a0980f4cf6b931aec7e42078c3dad"
+  },
+  {
+    "index": 124,
+    "timestamp": "2025-05-25T23:51:58.036753",
+    "transactions": [
+      {
+        "sandik_no": "3425",
+        "salon_no": "543634",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-25 23:51:58",
+        "oy_kullananlar": [
+          "3254325",
+          "5325634"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 23:51:58",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "ea207b9a26fbf805d3dae22a1f4c3bb4603a0980f4cf6b931aec7e42078c3dad",
+    "hash": "c697b7720814e4a5560ff165b7a31f941c3ca150d40e1dbbfad7ba34ab632519"
+  },
+  {
+    "index": 125,
+    "timestamp": "2025-05-25T23:52:20.235260",
+    "transactions": [
+      {
+        "sandik_no": "3425",
+        "salon_no": "543634",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "3254325",
+          "5325634"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 2,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-25 23:52:20",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-25 23:52:20",
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-25 23:51:58",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "c697b7720814e4a5560ff165b7a31f941c3ca150d40e1dbbfad7ba34ab632519",
+    "hash": "fded53fb60811408fc226eab3483e6aedede25a1dd0ee3d414473e60ae27530e"
+  },
+  {
+    "index": 126,
+    "timestamp": "2025-05-25T23:55:33.442684",
+    "transactions": [
+      {
+        "sandik_no": "3424",
+        "salon_no": "4234",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 1,
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-25 23:55:33",
+        "oy_kullananlar": [
+          "4324"
+        ],
+        "last_updater_vote_tracking": "Ahmet Yılmaz",
+        "last_update_time_vote_tracking": "2025-05-25 23:55:33",
+        "katilim_orani": 50.0
+      }
+    ],
+    "previous_hash": "fded53fb60811408fc226eab3483e6aedede25a1dd0ee3d414473e60ae27530e",
+    "hash": "791ae8b1228d0cb201ccf44fb962c3e49b56b86c48324cc8d3d50b3ef564789b"
+  },
+  {
+    "index": 127,
+    "timestamp": "2025-05-25T23:55:36.011540",
+    "transactions": [
+      {
+        "sandik_no": "3424",
+        "salon_no": "4234",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-25 23:55:36",
+        "oy_kullananlar": [
+          "4324",
+          "645374"
+        ],
+        "last_updater_vote_tracking": "Ahmet Yılmaz",
+        "last_update_time_vote_tracking": "2025-05-25 23:55:36",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "791ae8b1228d0cb201ccf44fb962c3e49b56b86c48324cc8d3d50b3ef564789b",
+    "hash": "1c8a1219f1066c1a588fa9ca3f1f7f19c937c3c8c1b0cf1d6dc2e6b2e4d14a08"
+  },
+  {
+    "index": 128,
+    "timestamp": "2025-05-25T23:55:46.119205",
+    "transactions": [
+      {
+        "sandik_no": "3424",
+        "salon_no": "4234",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "4324",
+          "645374"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 0,
+          "C": 1,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS001",
+        "timestamp": "2025-05-25 23:55:46",
+        "last_updater_party_votes": "Ahmet Yılmaz",
+        "last_update_time_party_votes": "2025-05-25 23:55:46",
+        "last_updater_vote_tracking": "Ahmet Yılmaz",
+        "last_update_time_vote_tracking": "2025-05-25 23:55:36",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS001"
+      }
+    ],
+    "previous_hash": "1c8a1219f1066c1a588fa9ca3f1f7f19c937c3c8c1b0cf1d6dc2e6b2e4d14a08",
+    "hash": "626623e268d24219514515b1b672fa346aa1e68cfb2e58c7064a588a89822a38"
+  },
+  {
+    "index": 129,
+    "timestamp": "2025-05-26T00:03:00.539689",
+    "transactions": [
+      {
+        "sandik_no": "5432523",
+        "salon_no": "54325",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-26 00:03:00",
+        "oy_kullananlar": [
+          "53426736",
+          "7437"
+        ],
+        "last_updater_vote_tracking": "Ahmet Yılmaz",
+        "last_update_time_vote_tracking": "2025-05-26 00:03:00",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "626623e268d24219514515b1b672fa346aa1e68cfb2e58c7064a588a89822a38",
+    "hash": "1e4fecf3081c0b2a1414bba37a24b1c30c3c9f52e55a0e496df8b3a0c3153409"
+  },
+  {
+    "index": 130,
+    "timestamp": "2025-05-26T00:03:06.858215",
+    "transactions": [
+      {
+        "sandik_no": "5432523",
+        "salon_no": "54325",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "53426736",
+          "7437"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 1,
+          "C": 1,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS001",
+        "timestamp": "2025-05-26 00:03:06",
+        "last_updater_party_votes": "Ahmet Yılmaz",
+        "last_update_time_party_votes": "2025-05-26 00:03:06",
+        "islem_turu": "parti_oylari",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS001"
+      }
+    ],
+    "previous_hash": "1e4fecf3081c0b2a1414bba37a24b1c30c3c9f52e55a0e496df8b3a0c3153409",
+    "hash": "63003f77bb6de0f6054607b177e40f4a65cd8a87171a4bdfd9fe2b8058b5be18"
+  },
+  {
+    "index": 131,
+    "timestamp": "2025-05-26T00:29:20.900136",
+    "transactions": [
+      {
+        "sandik_no": "4325432",
+        "salon_no": "346346",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-26 00:29:20",
+        "oy_kullananlar": [
+          "4254326",
+          "64374"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-26 00:29:20",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "63003f77bb6de0f6054607b177e40f4a65cd8a87171a4bdfd9fe2b8058b5be18",
+    "hash": "6d467de385b8494dc890fe95b1f61c6328fb1b10dddb2f043bdbfbe9909b6dc9"
+  },
+  {
+    "index": 132,
+    "timestamp": "2025-05-26T00:29:26.141049",
+    "transactions": [
+      {
+        "sandik_no": "4325432",
+        "salon_no": "346346",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "4254326",
+          "64374"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-26 00:29:26",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-26 00:29:26",
+        "islem_turu": "parti_oylari",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "6d467de385b8494dc890fe95b1f61c6328fb1b10dddb2f043bdbfbe9909b6dc9",
+    "hash": "7aad977bd22a51e395fac5d5c78a6d66dab91a6c383f1124519f371120b75edf"
+  },
+  {
+    "index": 133,
+    "timestamp": "2025-05-26T00:33:41.347821",
+    "transactions": [
+      {
+        "sandik_no": "543263",
+        "salon_no": "543256",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-26 00:33:41",
+        "oy_kullananlar": [
+          "536234",
+          "858"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-26 00:33:41",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "7aad977bd22a51e395fac5d5c78a6d66dab91a6c383f1124519f371120b75edf",
+    "hash": "e2821a4143fe944432b98f870b9bcc1b567f1a0df09f567e9109d83ab095b1ce"
+  },
+  {
+    "index": 134,
+    "timestamp": "2025-05-26T00:33:46.553003",
+    "transactions": [
+      {
+        "sandik_no": "543263",
+        "salon_no": "543256",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "536234",
+          "858"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 2,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-26 00:33:46",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-26 00:33:46",
+        "islem_turu": "parti_oylari",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "e2821a4143fe944432b98f870b9bcc1b567f1a0df09f567e9109d83ab095b1ce",
+    "hash": "7f8bce05bd5d20db8458568071fecdb4306f4bd19560b86a10f8c9902b32b922"
+  },
+  {
+    "index": 135,
+    "timestamp": "2025-05-26T00:36:34.523258",
+    "transactions": [
+      {
+        "sandik_no": "42342",
+        "salon_no": "5325",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-26 00:36:34",
+        "oy_kullananlar": [
+          "4444",
+          "5555"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-26 00:36:34",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "7f8bce05bd5d20db8458568071fecdb4306f4bd19560b86a10f8c9902b32b922",
+    "hash": "61922573a72789c2b3d7942eb3031cfab039f3ee1905162ba6a4433f6260e850"
+  },
+  {
+    "index": 136,
+    "timestamp": "2025-05-26T00:36:39.299425",
+    "transactions": [
+      {
+        "sandik_no": "42342",
+        "salon_no": "5325",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "4444",
+          "5555"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 0,
+          "C": 2,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-26 00:36:39",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-26 00:36:39",
+        "islem_turu": "parti_oylari",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "61922573a72789c2b3d7942eb3031cfab039f3ee1905162ba6a4433f6260e850",
+    "hash": "3338eda43dd1ad093b00b1ad222944e213afdb416c433f1f5f503b5f1b909086"
+  },
+  {
+    "index": 137,
+    "timestamp": "2025-05-26T00:37:57.191436",
+    "transactions": [
+      {
+        "sandik_no": "42342",
+        "salon_no": "5325",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "4444",
+          "5555"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 0,
+          "C": 2,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-26 00:37:57",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-26 00:37:57",
+        "islem_turu": "parti_oylari",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "3338eda43dd1ad093b00b1ad222944e213afdb416c433f1f5f503b5f1b909086",
+    "hash": "086e6528f54c6ddb14e11b5fea6a94bc1137435338bcc56c0f741d4be33334f9"
+  },
+  {
+    "index": 138,
+    "timestamp": "2025-05-26T00:42:30.436586",
+    "transactions": [
+      {
+        "sandik_no": "345325",
+        "salon_no": "532634",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-26 00:42:30",
+        "oy_kullananlar": [
+          "23232",
+          "4234523"
+        ],
+        "last_updater_vote_tracking": "Ahmet Yılmaz",
+        "last_update_time_vote_tracking": "2025-05-26 00:42:30",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "086e6528f54c6ddb14e11b5fea6a94bc1137435338bcc56c0f741d4be33334f9",
+    "hash": "1d00867828b3381637a24d5b292ed1bf87912050b5114631eac4329836f49a80"
+  },
+  {
+    "index": 139,
+    "timestamp": "2025-05-26T00:42:36.548181",
+    "transactions": [
+      {
+        "sandik_no": "345325",
+        "salon_no": "532634",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "23232",
+          "4234523"
+        ],
+        "party_votes": {
+          "A": 2,
+          "B": 0,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS001",
+        "timestamp": "2025-05-26 00:42:36",
+        "last_updater_party_votes": "Ahmet Yılmaz",
+        "last_update_time_party_votes": "2025-05-26 00:42:36",
+        "islem_turu": "parti_oylari",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS001"
+      }
+    ],
+    "previous_hash": "1d00867828b3381637a24d5b292ed1bf87912050b5114631eac4329836f49a80",
+    "hash": "ccc43d01f737c25c7a534f65636a3ec02ed24e4cd3a22990c4d9d0cb8f66dbdf"
+  },
+  {
+    "index": 140,
+    "timestamp": "2025-05-26T00:45:07.891545",
+    "transactions": [
+      {
+        "sandik_no": "321321",
+        "salon_no": "32324",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-26 00:45:07",
+        "oy_kullananlar": [
+          "41431",
+          "42521"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-26 00:45:07",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "ccc43d01f737c25c7a534f65636a3ec02ed24e4cd3a22990c4d9d0cb8f66dbdf",
+    "hash": "25e6f0ac1fff9c75022bd2084dd7edae7cb7a54bcdcbf2453a99040a84d66667"
+  },
+  {
+    "index": 141,
+    "timestamp": "2025-05-26T00:45:12.817950",
+    "transactions": [
+      {
+        "sandik_no": "321321",
+        "salon_no": "32324",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "41431",
+          "42521"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 2,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-26 00:45:12",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-26 00:45:12",
+        "islem_turu": "parti_oylari",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "25e6f0ac1fff9c75022bd2084dd7edae7cb7a54bcdcbf2453a99040a84d66667",
+    "hash": "c50c722b3238a51193d47f6e03e0dead489b4c49f6b4daaf93a50c4d82c44669"
+  },
+  {
+    "index": 142,
+    "timestamp": "2025-05-26T00:47:37.340444",
+    "transactions": [
+      {
+        "sandik_no": "2342",
+        "salon_no": "432532",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-26 00:47:37",
+        "oy_kullananlar": [
+          "34242354",
+          "675473"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-26 00:47:37",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "c50c722b3238a51193d47f6e03e0dead489b4c49f6b4daaf93a50c4d82c44669",
+    "hash": "a501483090267a68adbfcfb99f847ad7460fac4b7f1f5374bfa7519bf089746e"
+  },
+  {
+    "index": 143,
+    "timestamp": "2025-05-26T00:47:43.220897",
+    "transactions": [
+      {
+        "sandik_no": "2342",
+        "salon_no": "432532",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "34242354",
+          "675473"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-26 00:47:43",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-26 00:47:43",
+        "islem_turu": "parti_oylari",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "a501483090267a68adbfcfb99f847ad7460fac4b7f1f5374bfa7519bf089746e",
+    "hash": "bdff626841678e072f3f4886057add49f28b1c8d33f164382f222e9c537e6ae6"
+  },
+  {
+    "index": 144,
+    "timestamp": "2025-05-26T00:49:15.348085",
+    "transactions": [
+      {
+        "sandik_no": "32432",
+        "salon_no": "53245",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-26 00:49:15",
+        "oy_kullananlar": [
+          "4325",
+          "666"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-26 00:49:15",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "bdff626841678e072f3f4886057add49f28b1c8d33f164382f222e9c537e6ae6",
+    "hash": "4762993bc199635e6d529d2332594fa527c67c1c60b779873034472a1490e147"
+  },
+  {
+    "index": 145,
+    "timestamp": "2025-05-26T00:49:19.514001",
+    "transactions": [
+      {
+        "sandik_no": "32432",
+        "salon_no": "53245",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "4325",
+          "666"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 1,
+          "C": 1,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-26 00:49:19",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-26 00:49:19",
+        "islem_turu": "parti_oylari",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "4762993bc199635e6d529d2332594fa527c67c1c60b779873034472a1490e147",
+    "hash": "c26eef4d2c01cd882728e935a956e55f40cb756428c1a784deb9f460c8cabcfd"
+  },
+  {
+    "index": 146,
+    "timestamp": "2025-05-26T01:46:16.809552",
+    "transactions": [
+      {
+        "sandik_no": "2342",
+        "salon_no": "325",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-26 01:46:16",
+        "oy_kullananlar": [
+          "87978",
+          "87978"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-26 01:46:16",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "c26eef4d2c01cd882728e935a956e55f40cb756428c1a784deb9f460c8cabcfd",
+    "hash": "ecf2dabcd70eef25e35354ee351e97a2748375364faaf52b6f2d91d0420dcc37"
+  },
+  {
+    "index": 147,
+    "timestamp": "2025-05-26T01:46:26.965930",
+    "transactions": [
+      {
+        "sandik_no": "2342",
+        "salon_no": "325",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "87978",
+          "87978"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-26 01:46:26",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-26 01:46:26",
+        "islem_turu": "parti_oylari",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "ecf2dabcd70eef25e35354ee351e97a2748375364faaf52b6f2d91d0420dcc37",
+    "hash": "1f5b3c069265d57a8d92c341d8ab7c4d4a17432b8b616a996a1bdfc78a291302"
+  },
+  {
+    "index": 148,
+    "timestamp": "2025-05-26T01:50:15.206375",
+    "transactions": [
+      {
+        "sandik_no": "4343",
+        "salon_no": "5345",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-26 01:50:15",
+        "oy_kullananlar": [
+          "22222",
+          "1111111"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-26 01:50:15",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "1f5b3c069265d57a8d92c341d8ab7c4d4a17432b8b616a996a1bdfc78a291302",
+    "hash": "34de6add29eea837adbdeff5e098700445a57653d8c751fd1dfaa47d86e6c046"
+  },
+  {
+    "index": 149,
+    "timestamp": "2025-05-26T01:55:11.822602",
+    "transactions": [
+      {
+        "sandik_no": "254325",
+        "salon_no": "5436",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-26 01:55:11",
+        "oy_kullananlar": [
+          "4234234",
+          "534256"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-26 01:55:11",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "34de6add29eea837adbdeff5e098700445a57653d8c751fd1dfaa47d86e6c046",
+    "hash": "80a5c29e7582abc27b3d3845e13e754213b81efee901f46dd35b2542f51b5797"
+  },
+  {
+    "index": 150,
+    "timestamp": "2025-05-26T01:55:46.650504",
+    "transactions": [
+      {
+        "sandik_no": "254325",
+        "salon_no": "5436",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "4234234",
+          "534256"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 1,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-26 01:55:46",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-26 01:55:46",
+        "islem_turu": "parti_oylari",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "80a5c29e7582abc27b3d3845e13e754213b81efee901f46dd35b2542f51b5797",
+    "hash": "e0c1dbd1322cfa021e8ab94706bec4b92d7b165f02446167a210fb437986176f"
+  },
+  {
+    "index": 151,
+    "timestamp": "2025-05-26T01:58:00.147826",
+    "transactions": [
+      {
+        "sandik_no": "234",
+        "salon_no": "432523",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 1,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-26 01:58:00",
+        "oy_kullananlar": [
+          "99"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-26 01:58:00",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 50.0
+      }
+    ],
+    "previous_hash": "e0c1dbd1322cfa021e8ab94706bec4b92d7b165f02446167a210fb437986176f",
+    "hash": "b4a453dfa6a7f6bb20cf6d4fa005b1b75ac80277a9a9fe34c95313449c9ae2bb"
+  },
+  {
+    "index": 152,
+    "timestamp": "2025-05-26T01:58:08.230387",
+    "transactions": [
+      {
+        "sandik_no": "234",
+        "salon_no": "432523",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 1,
+        "oy_kullananlar": [
+          "99"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 1,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-26 01:58:08",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-26 01:58:08",
+        "islem_turu": "parti_oylari",
+        "katilim_orani": 50.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "b4a453dfa6a7f6bb20cf6d4fa005b1b75ac80277a9a9fe34c95313449c9ae2bb",
+    "hash": "a141a6fb57c4b8cda3f7f8a4f00f56ce1d80b8378654c6b4dafc5bf276f9ba20"
+  },
+  {
+    "index": 153,
+    "timestamp": "2025-05-26T02:00:19.095307",
+    "transactions": [
+      {
+        "sandik_no": "432222",
+        "salon_no": "4234",
+        "secmen_sayisi": 3,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-26 02:00:19",
+        "oy_kullananlar": [
+          "3333",
+          "43434352"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-26 02:00:19",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 66.67
+      }
+    ],
+    "previous_hash": "a141a6fb57c4b8cda3f7f8a4f00f56ce1d80b8378654c6b4dafc5bf276f9ba20",
+    "hash": "8cfe20bef1396cd41d40548bc8d640f577f212fff09b6a60a1f1ea4521b3b01e"
+  },
+  {
+    "index": 154,
+    "timestamp": "2025-05-26T02:00:23.678966",
+    "transactions": [
+      {
+        "sandik_no": "432222",
+        "salon_no": "4234",
+        "secmen_sayisi": 3,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "3333",
+          "43434352"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-26 02:00:23",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-26 02:00:23",
+        "islem_turu": "parti_oylari",
+        "katilim_orani": 66.67,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "8cfe20bef1396cd41d40548bc8d640f577f212fff09b6a60a1f1ea4521b3b01e",
+    "hash": "aed98ff955d97dc13d0d0e551ccbaa26cb6f62516b718f0399e7cafa205f82cc"
+  },
+  {
+    "index": 155,
+    "timestamp": "2025-05-26T02:08:42.662945",
+    "transactions": [
+      {
+        "sandik_no": "32",
+        "salon_no": "4324235",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-26 02:08:42",
+        "oy_kullananlar": [
+          "444432",
+          "33332"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-26 02:08:42",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "aed98ff955d97dc13d0d0e551ccbaa26cb6f62516b718f0399e7cafa205f82cc",
+    "hash": "ee9522f790f842eaafe3af947ffe70f5dea3e2221573d12b025f252aa5b414d0"
+  },
+  {
+    "index": 156,
+    "timestamp": "2025-05-26T02:08:49.943553",
+    "transactions": [
+      {
+        "sandik_no": "32",
+        "salon_no": "4324235",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "444432",
+          "33332"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 1,
+          "C": 1,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-26 02:08:49",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-26 02:08:49",
+        "islem_turu": "parti_oylari",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "ee9522f790f842eaafe3af947ffe70f5dea3e2221573d12b025f252aa5b414d0",
+    "hash": "a20f46c9932caddb9c849d6aa4f842e9beeeb1f3cb0297d2ca20b3a48849b695"
+  },
+  {
+    "index": 157,
+    "timestamp": "2025-05-26T02:16:36.359597",
+    "transactions": [
+      {
+        "sandik_no": "252",
+        "salon_no": "4235",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-26 02:16:36",
+        "oy_kullananlar": [
+          "33333332",
+          "5555534"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-26 02:16:36",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "a20f46c9932caddb9c849d6aa4f842e9beeeb1f3cb0297d2ca20b3a48849b695",
+    "hash": "a82596ef5d330aa52ac4021cf154c2d6720312e0c30807c7a73b1d59eab628a0"
+  },
+  {
+    "index": 158,
+    "timestamp": "2025-05-26T02:16:42.167716",
+    "transactions": [
+      {
+        "sandik_no": "252",
+        "salon_no": "4235",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "33333332",
+          "5555534"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 0,
+          "C": 1,
+          "GEÇERSİZ": 1
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-26 02:16:42",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-26 02:16:42",
+        "islem_turu": "parti_oylari",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "a82596ef5d330aa52ac4021cf154c2d6720312e0c30807c7a73b1d59eab628a0",
+    "hash": "f3b023cf637442cb034b7068abd6cf5d29777aaa399e6c811e0ed0065c61d438"
+  },
+  {
+    "index": 159,
+    "timestamp": "2025-05-26T02:21:57.117736",
+    "transactions": [
+      {
+        "sandik_no": "3333",
+        "salon_no": "44444",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-26 02:21:57",
+        "oy_kullananlar": [
+          "3332",
+          "11113"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-26 02:21:57",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "f3b023cf637442cb034b7068abd6cf5d29777aaa399e6c811e0ed0065c61d438",
+    "hash": "ecca9b2d2b977406c6a685aa828e67590eb929f9486c4d91e2aa83c8abd45f37"
+  },
+  {
+    "index": 160,
+    "timestamp": "2025-05-26T02:22:03.759024",
+    "transactions": [
+      {
+        "sandik_no": "3333",
+        "salon_no": "44444",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "3332",
+          "11113"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "GEÇERSİZ": 1
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-26 02:22:03",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-26 02:22:03",
+        "islem_turu": "parti_oylari",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "ecca9b2d2b977406c6a685aa828e67590eb929f9486c4d91e2aa83c8abd45f37",
+    "hash": "49b068aac484f1647ac95d5bc6e01b35dddb5cdf4de286f309e87a0e97fc3287"
+  },
+  {
+    "index": 161,
+    "timestamp": "2025-05-26T02:27:28.937975",
+    "transactions": [
+      {
+        "sandik_no": "334",
+        "salon_no": "43432",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-26 02:27:28",
+        "oy_kullananlar": [
+          "324234",
+          "53256"
+        ],
+        "last_updater_vote_tracking": "Ahmet Yılmaz",
+        "last_update_time_vote_tracking": "2025-05-26 02:27:28",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "49b068aac484f1647ac95d5bc6e01b35dddb5cdf4de286f309e87a0e97fc3287",
+    "hash": "555b8e2cca4e1fc7f8af42ea2741e56b754b8042f861a446502ee8cd2fde5177"
+  },
+  {
+    "index": 162,
+    "timestamp": "2025-05-26T02:27:36.455783",
+    "transactions": [
+      {
+        "sandik_no": "334",
+        "salon_no": "43432",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "324234",
+          "53256"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "GEÇERSİZ": 1
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS001",
+        "timestamp": "2025-05-26 02:27:36",
+        "last_updater_party_votes": "Ahmet Yılmaz",
+        "last_update_time_party_votes": "2025-05-26 02:27:36",
+        "islem_turu": "parti_oylari",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS001"
+      }
+    ],
+    "previous_hash": "555b8e2cca4e1fc7f8af42ea2741e56b754b8042f861a446502ee8cd2fde5177",
+    "hash": "8112505419f79f6a61fdda7ed276bb419e67fa84243c940f08b09931a03a1815"
+  },
+  {
+    "index": 163,
+    "timestamp": "2025-05-26T02:36:22.627974",
+    "transactions": [
+      {
+        "sandik_no": "324",
+        "salon_no": "43532",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS001",
+        "timestamp": "2025-05-26 02:36:22",
+        "oy_kullananlar": [
+          "2421",
+          "24145"
+        ],
+        "last_updater_vote_tracking": "Ahmet Yılmaz",
+        "last_update_time_vote_tracking": "2025-05-26 02:36:22",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "8112505419f79f6a61fdda7ed276bb419e67fa84243c940f08b09931a03a1815",
+    "hash": "8035c1f6229634fe96a348e42191722e1f779a43109cd8df65e9e05ea2745871"
+  },
+  {
+    "index": 164,
+    "timestamp": "2025-05-26T02:36:28.050232",
+    "transactions": [
+      {
+        "sandik_no": "324",
+        "salon_no": "43532",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "2421",
+          "24145"
+        ],
+        "party_votes": {
+          "A": 1,
+          "B": 0,
+          "C": 1,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS001",
+        "timestamp": "2025-05-26 02:36:28",
+        "last_updater_party_votes": "Ahmet Yılmaz",
+        "last_update_time_party_votes": "2025-05-26 02:36:28",
+        "islem_turu": "parti_oylari",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS001"
+      }
+    ],
+    "previous_hash": "8035c1f6229634fe96a348e42191722e1f779a43109cd8df65e9e05ea2745871",
+    "hash": "d234a7fe0490973a38db7b1f17f88060f371e6b8cb9f4d012138a40337d3eda4"
+  },
+  {
+    "index": 165,
+    "timestamp": "2025-05-26T12:22:12.870685",
+    "transactions": [
+      {
+        "sandik_no": "43243",
+        "salon_no": "4325432",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-26 12:22:12",
+        "oy_kullananlar": [
+          "4346457",
+          "76586"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-26 12:22:12",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "d234a7fe0490973a38db7b1f17f88060f371e6b8cb9f4d012138a40337d3eda4",
+    "hash": "b3af4aa3b460a3b08e7dc3549590b784f35083c8b77735ea92049ede401ecb96"
+  },
+  {
+    "index": 166,
+    "timestamp": "2025-05-26T12:22:50.545579",
+    "transactions": [
+      {
+        "sandik_no": "43243",
+        "salon_no": "4325432",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "oy_kullananlar": [
+          "4346457",
+          "76586"
+        ],
+        "party_votes": {
+          "A": 0,
+          "B": 1,
+          "C": 1,
+          "GEÇERSİZ": 0
+        },
+        "total_votes": 2,
+        "gozlemci_id": "OBS002",
+        "timestamp": "2025-05-26 12:22:50",
+        "last_updater_party_votes": "Mehmet Demir",
+        "last_update_time_party_votes": "2025-05-26 12:22:50",
+        "islem_turu": "parti_oylari",
+        "katilim_orani": 100.0,
+        "gözlemci_id": "OBS002"
+      }
+    ],
+    "previous_hash": "b3af4aa3b460a3b08e7dc3549590b784f35083c8b77735ea92049ede401ecb96",
+    "hash": "908d1c12fdece982d127df7f7c24b14ad89fca849b5bb66f477958d59abd7ec3"
+  },
+  {
+    "index": 167,
+    "timestamp": "2025-05-26T12:24:21.916173",
+    "transactions": [
+      {
+        "sandik_no": "43243",
+        "salon_no": "6546",
+        "secmen_sayisi": 2,
+        "katilan_secmen": 2,
+        "gözlemci_id": "OBS002",
+        "timestamp": "2025-05-26 12:24:21",
+        "oy_kullananlar": [
+          "123324",
+          "123324435"
+        ],
+        "last_updater_vote_tracking": "Mehmet Demir",
+        "last_update_time_vote_tracking": "2025-05-26 12:24:21",
+        "islem_turu": "oy_takibi",
+        "katilim_orani": 100.0
+      }
+    ],
+    "previous_hash": "908d1c12fdece982d127df7f7c24b14ad89fca849b5bb66f477958d59abd7ec3",
+    "hash": "f77ef7a56c0ba80eacb5c64e2a742afe1f2e854b4be263fb04db67068df9f41c"
+  }
+]
