@@ -2,5 +2,5 @@
 # Remove Copilot co-author trailer from commit messages.
 MSG_FILE="$1"
 if [ -f "$MSG_FILE" ]; then
-  sed -i '/^Co-authored-by: Copilot <223556219+Copilot@users\.noreply\.github\.com>$/d' "$MSG_FILE"
+  sed -i '/^Co-authored-by: Copilot <.*>$/d' "$MSG_FILE"
 fi
